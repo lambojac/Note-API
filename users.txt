@@ -1,0 +1,43 @@
+{
+	"username":"Jaaystones",
+	"password":"Stones123",
+	"roles":["Employee"]
+}
+{
+	"username":"James147",
+	"password":"James11",
+	"roles":["Employee"]
+}
+{
+	"username":"Sammywens",
+	"password":"Sammywens",
+	"roles":["Manager"]
+}
+
+after authentication
+{
+	"username":"JayStone",
+	"password":"jogolo",
+	"roles":["Manager"]
+}
+{
+	"username":"Paul123",
+	"password":"jogolo"
+	"roles":["Admin"]
+}
+{
+	"username":"TeeJay",
+	"password":"Teeboy",
+	"roles":["Employee"]
+}
+{
+	"username":"SammyWens",
+	"password":"Sammywens",
+	"roles":["Admin"]
+}
+{
+	"username":"JoelPaul",
+	"password":"joelpaul",
+	"roles":["Admin"]
+}
+express-async-errors can be used to handle errors just like asyncHandlers
